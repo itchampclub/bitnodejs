@@ -1,0 +1,18 @@
+{
+    "name": "bitnodejs",
+    "version": "1.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.1",
+        "mongodb": "^4.7.0",
+        "node-cron": "^3.0.1",
+        "node-fetch": "^2.6.7",
+        "package.json": "^2.0.1",
+        "uuid": "^8.3.2"
+    }
+}
